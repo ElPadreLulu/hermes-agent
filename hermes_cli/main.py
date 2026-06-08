@@ -2886,6 +2886,7 @@ def select_provider_and_model(args=None):
         "openai-api",
         "gemini",
         "deepseek",
+        "mistral",
         "xai",
         "zai",
         "kimi-coding-cn",
